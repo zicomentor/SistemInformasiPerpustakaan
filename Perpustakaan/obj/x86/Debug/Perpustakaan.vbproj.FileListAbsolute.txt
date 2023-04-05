@@ -1,0 +1,149 @@
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.manifest
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.application
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBuku.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmDataPeminjaman.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKategori.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtama.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjam.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjaman.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPengembalianBuku.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmRak.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe.manifest
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.application
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+c:\users\slamet\documents\visual studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.accdb
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+D:\New folder\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.accdb
+D:\New folder\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.manifest
+D:\New folder\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.application
+D:\New folder\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+D:\New folder\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+D:\New folder\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBuku.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmDataPeminjaman.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKategori.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtama.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjam.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjaman.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPengembalianBuku.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmRak.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe.manifest
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.application
+D:\New folder\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_admin.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.accdb
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.manifest
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.application
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Homepage.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_admin.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_karyawan.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBukuMem.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjamanMem.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtamaMem.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Kunjungan.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBuku.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmDataPeminjaman.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKategori.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKunjungan.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtama.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjam.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjaman.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPengembalianBuku.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmRak.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe.manifest
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Backup\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.application
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.manifest
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.application
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Homepage.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_admin.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_karyawan.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBukuMem.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjamanMem.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtamaMem.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Kunjungan.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBuku.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmDataPeminjaman.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKategori.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKunjungan.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtama.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjam.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjaman.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPengembalianBuku.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmRak.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Setting_Buku.resources
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe.manifest
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.application
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+C:\Users\Ziicobain\Documents\Visual Studio 2012\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Homepage.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_admin.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_karyawan.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBukuMem.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjamanMem.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtamaMem.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Kunjungan.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBuku.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmDataPeminjaman.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKategori.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKunjungan.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtama.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjam.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjaman.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPengembalianBuku.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmRak.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Setting_Buku.resources
+C:\Users\ziicobain-workplace\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Homepage.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_admin.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Login_karyawan.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBukuMem.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjamanMem.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtamaMem.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Kunjungan.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmBuku.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmDataPeminjaman.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKategori.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmKunjungan.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmMenuUtama.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjam.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPeminjaman.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmPengembalianBuku.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FrmRak.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Setting_Buku.resources
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+D:\Documents\Visual Studio 2013\Projects\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb

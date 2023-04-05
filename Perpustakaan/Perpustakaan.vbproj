@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DDCD10DA-1E2E-418F-B918-6842C3E910C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Perpustakaan.My.MyApplication</StartupObject>
+    <RootNamespace>Perpustakaan</RootNamespace>
+    <AssemblyName>Perpustakaan</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Alternative Program Files\%40Workspace\Project_perpus\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Perpustakaan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Perpustakaan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1060F0F27E3C5A8C88A11CE69B6FCFBBF04038DD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Perpustakaan_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>book library.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Homepage.Designer.vb">
+      <DependentUpon>Homepage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_admin.Designer.vb">
+      <DependentUpon>Login_admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login_admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_karyawan.Designer.vb">
+      <DependentUpon>Login_karyawan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login_karyawan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pengunjung\FrmPeminjamanMem.Designer.vb">
+      <DependentUpon>FrmPeminjamanMem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pengunjung\FrmPeminjamanMem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pengunjung\FrmBukuMem.Designer.vb">
+      <DependentUpon>FrmBukuMem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pengunjung\FrmBukuMem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pengunjung\FrmMenuUtamaMem.Designer.vb">
+      <DependentUpon>FrmMenuUtamaMem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pengunjung\FrmMenuUtamaMem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pengunjung\Kunjungan.Designer.vb">
+      <DependentUpon>Kunjungan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pengunjung\Kunjungan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerpustakaanDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PerpustakaanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmBuku.Designer.vb">
+      <DependentUpon>FrmBuku.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmDataPeminjaman.Designer.vb">
+      <DependentUpon>FrmDataPeminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmDataPeminjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmKategori.Designer.vb">
+      <DependentUpon>FrmKategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmKategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmKunjungan.Designer.vb">
+      <DependentUpon>FrmKunjungan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmKunjungan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmMenuUtama.Designer.vb">
+      <DependentUpon>FrmMenuUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmMenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmPeminjam.Designer.vb">
+      <DependentUpon>FrmPeminjam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmPeminjam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmPeminjaman.Designer.vb">
+      <DependentUpon>FrmPeminjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmPeminjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmPengembalianBuku.Designer.vb">
+      <DependentUpon>FrmPengembalianBuku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmPengembalianBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Petugas\FrmRak.Designer.vb">
+      <DependentUpon>FrmRak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\FrmRak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Modul.vb" />
+    <Compile Include="ModKoneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Petugas\Setting Buku.Designer.vb">
+      <DependentUpon>Setting Buku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas\Setting Buku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Homepage.resx">
+      <DependentUpon>Homepage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_admin.resx">
+      <DependentUpon>Login_admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_karyawan.resx">
+      <DependentUpon>Login_karyawan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pengunjung\FrmBukuMem.resx">
+      <DependentUpon>FrmBukuMem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pengunjung\FrmPeminjamanMem.resx">
+      <DependentUpon>FrmPeminjamanMem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pengunjung\FrmMenuUtamaMem.resx">
+      <DependentUpon>FrmMenuUtamaMem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pengunjung\Kunjungan.resx">
+      <DependentUpon>Kunjungan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmBuku.resx">
+      <DependentUpon>FrmBuku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmDataPeminjaman.resx">
+      <DependentUpon>FrmDataPeminjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmKategori.resx">
+      <DependentUpon>FrmKategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmKunjungan.resx">
+      <DependentUpon>FrmKunjungan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmMenuUtama.resx">
+      <DependentUpon>FrmMenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmPeminjam.resx">
+      <DependentUpon>FrmPeminjam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmPeminjaman.resx">
+      <DependentUpon>FrmPeminjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmPengembalianBuku.resx">
+      <DependentUpon>FrmPengembalianBuku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\FrmRak.resx">
+      <DependentUpon>FrmRak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas\Setting Buku.resx">
+      <DependentUpon>Setting Buku.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="PerpustakaanDataSet.xsc">
+      <DependentUpon>PerpustakaanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PerpustakaanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PerpustakaanDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PerpustakaanDataSet.xss">
+      <DependentUpon>PerpustakaanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Perpustakaan_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shut_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\block.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruang-bacaperpus.jpg" />
+    <None Include="Resources\Pengemalian.jpg" />
+    <None Include="Resources\peminjaman.jpg" />
+    <None Include="Resources\Mainp.jpg" />
+    <None Include="Resources\Main.jpg" />
+    <None Include="Resources\Kun.jpg" />
+    <None Include="Resources\karyawan.jpg" />
+    <None Include="Resources\Dir_bookk.jpg" />
+    <None Include="Resources\Daf_mem.jpg" />
+    <None Include="Resources\Area Petugas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speech-bubble.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="book library.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

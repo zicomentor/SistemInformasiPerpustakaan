@@ -1,0 +1,391 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Perpustakaan
+</name>
+</assembly>
+<members>
+<member name="T:Perpustakaan.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources._next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Area_Petugas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.block">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.book__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.books">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.checkmark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Daf_mem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Dir_bookk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.karyawan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Kun">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.laptop__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.laptop__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Log_out">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Main">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Mainp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.page">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.peminjaman">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.Pengemalian">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.previous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.repeat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.ruang_bacaperpus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.shopping_cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.shut_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.speech_bubble">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.tag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Perpustakaan.My.Resources.Resources.zoom_in">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblBukuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblKategoriDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblKunjunganDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblPeminjamDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblPeminjamanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblRakDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.QryPeminjamanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblBukuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblKategoriRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblKunjunganRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblPeminjamRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblPeminjamanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblRakRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.QryPeminjamanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblBukuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblKategoriRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblKunjunganRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblPeminjamRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblPeminjamanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.TblRakRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSet.QryPeminjamanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TblBukuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TblKategoriTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TblKunjunganTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TblPeminjamTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TblPeminjamanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TblRakTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.QryPeminjamanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Perpustakaan.PerpustakaanDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Perpustakaan.PerpustakaanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Perpustakaan.PerpustakaanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.UpdateAll(Perpustakaan.PerpustakaanDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Perpustakaan.PerpustakaanDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
